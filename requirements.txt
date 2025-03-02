@@ -1,0 +1,8 @@
+requests
+newsapi-python
+finnhub-python
+scikit-learn
+yfinance
+numpy
+matplotlib
+pandas
